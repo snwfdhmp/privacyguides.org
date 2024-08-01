@@ -129,6 +129,7 @@ markdown_extensions:
   material.extensions.preview:
     sources:
       exclude:
+        - index.md
         - tools.md
     targets:
       exclude:
